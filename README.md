@@ -17,4 +17,4 @@ Exemplo inserindo um link texto
 [SENAI](https://www.sp.senai.br/cursos-tecnicos-comunidade)
 
 Exemplo inserindo uma imagem com link
-[Link](https://esporteclubebahia.b-cdn.net/wp-content/themes/2016/img/main/logo_marca.png(https://www.esporteclubebahia.com.br/))
+![Link](https://esporteclubebahia.b-cdn.net/wp-content/themes/2016/img/main/logo_marca.png(https://www.esporteclubebahia.com.br/))
