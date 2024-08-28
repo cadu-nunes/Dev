@@ -20,5 +20,5 @@ Exemplo inserindo uma imagem com link
 [![Texto Alternativo](https://cidadeolimpica.com.br/wp-content/uploads/2020/09/papel-parede-bahia-pc3.jpg)](https://www.esporteclubebahia.com.br)
 
 Exemplo inserindo um link com texto
-Dentro do colchete vai o texto que aparece na página. Dentro do parênteses vai o endereço de destino(link)
-[Clique aqui] (https://www.apple.com/br/)
+Dentro do colchete vai o texto que aparece na página. Dentro do parênteses vai o endereço de destino.
+[Clique aqui](https://www.apple.com/br/)
