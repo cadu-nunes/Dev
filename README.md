@@ -12,3 +12,9 @@ Neste repositório vamos ver assuntos de Dev.
 
 Exemplo inserindo uma imagem
 ![imagem](https://blog.accurate.com.br/wp-content/uploads/2021/07/Dev-Full-Stack.png)
+
+Exemplo inserindo um link texto
+![link](https://www.sp.senai.br/cursos-tecnicos-comunidade)
+
+Exemplo inserindo uma imagem com link
+![imagem+link](https://esporteclubebahia.b-cdn.net/wp-content/themes/2016/img/main/logo_marca.png+https://www.esporteclubebahia.com.br/)
